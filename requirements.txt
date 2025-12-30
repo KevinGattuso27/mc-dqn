@@ -1,0 +1,6 @@
+gymnasium[classic-control]==0.29.1
+numpy==1.26.4
+torch==2.2.2
+matplotlib==3.8.4
+pandas==2.2.2
+moviepy==1.0.3

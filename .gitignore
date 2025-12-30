@@ -1,0 +1,17 @@
+.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtualenv
+.venv/
+
+# Training outputs / artifacts
+runs/
+runs_2000/
+*.pt
+*.pth
+*.mp4
