@@ -15,3 +15,6 @@ runs_2000/
 *.pt
 *.pth
 *.mp4
+
+# Slides
+*.pptx
